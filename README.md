@@ -1,5 +1,5 @@
 business-intelligence-management
-# Business intelligence Management
+# Business Intelligence Management
 
 Based on "Quary" at https://github.com/quarylabs/quary
 
