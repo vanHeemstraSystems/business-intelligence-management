@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+business-intelligence-management
+# Business intelligence Management
 
-Based on "ABC" at https://www.abc.com/
+Based on "Quary" at https://github.com/quarylabs/quary
 
 ## 100 - Introduction
 
